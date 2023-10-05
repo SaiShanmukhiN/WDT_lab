@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<books>
+<book1>
+<title>Artificial Intelligence</title>
+<author>James Neel</author>
+<isbn> 2980</isbn>
+<publications> Falcon</publications>
+<edition> 3rd edition <edition>
+<price>200</price>
+</book1> 
+<book2>
+<title>Electronics</title>
+<author>Anile Johns</author>
+<isbn> 3450</isbn>
+<publications> radiant</publications>
+<edition> 5rd edition </edition>
+<price>1500</price>
+</book2>
+</books>
